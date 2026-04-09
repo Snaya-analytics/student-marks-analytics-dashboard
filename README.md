@@ -1,2 +1,22 @@
 # student-marks-analytics-dashboard
-Data analysis and visualization of student marks using python. this project built using streamlit for the fronted and flask API for backend data processing. It provides interactive visualization and insights into student performance.
+## project overview
+This project analyzes student performance using data visualization techniques.
+
+## Tech Stack
+- Fontend: Streamlit(interactve dashboard UI)
+- Backend: flask (API for data processing and serving results)
+- Language: python
+- Libraries: pandas,numpy,matplotlib,seaborn
+
+## Features 
+- Data cleaning
+- Marks analysis
+- Gender-wise performance
+- Subject-wise comparison
+- Interactive dashboard
+
+## Dataset
+Student marks performance dataset used for analysis.
+
+## Author
+snaya rajput
